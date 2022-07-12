@@ -1,1 +1,5 @@
 venv/
+nouns_vote_reasons.csv
+nouns_vote_reasons_prepared.jsonl
+*.jsonl
+*.csv
